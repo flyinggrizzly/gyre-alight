@@ -27,8 +27,15 @@ adapted from _Torchbearer 2e_ by Thor Olavsrud and Luke Crane.
 
 ## Questions to be answered
 
+**Most questions are around the Momentum mechanic--that's the main new thing here that isn't in Torchbearer.**
+
 - is this fun?
-- TPQs...
+- does Momentum feel like a double edged sword?
+- do the extra dice call to you?
+- does the possibility of consequence blowback make them too unappealing?
+- PlayTestQuestions...
+    - Should Momentum tick up on **every** test (current implementation), or **just on successes**?
+    - Does the Skill list feel OK? Does the uneven distribution amongst the Attributes feel OK (16 Wit; 8 Power; 7 Grit)? What would make it feel ok as-is? What if Power-derived skills were used more? Any thoughts welcome here
 
 ## TODO
 
