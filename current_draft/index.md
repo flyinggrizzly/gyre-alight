@@ -5,26 +5,7 @@ version: 0.0.1
 
 # Gyre Alight
 
-- description
-- goals of system
-- system base
-- questions to be answered
-- rules
-  - skeleton of TB
-  - Momentum, tapping, consequences
-
-- Each test/scene increases Momentum
-- Characters have Attributes (Choosing 3 so we get a Condition track of size 9--adjust here to adjust there)
-    - Wit
-    - Power
-    - Grit
-- Characters have skill ratings of 0-5ish, and add their Root rating
-    - use Beginners Luck per Torchbearer
-- Characters can take Conditions as a Twist, where each Condition is matched to a specific Attribute
-    - Hesitating: +1D to opponent in Versus Test 
-    - Hampering: -1D
-    - Heaving: -1s
-    - Dead Weight: Cannot make any tests
+_Gyre Alight_ is an a crude hack of _Torchbearer 2e_.
 
 ## Goal
 
@@ -43,6 +24,21 @@ adapted from _Torchbearer 2e_ by Thor Olavsrud and Luke Crane.
 
 1. [Build a character](./character_creation.md)
 2. [Running and playing the game](./procedure.md)
+
+## Questions to be answered
+
+- is this fun?
+- TPQs...
+
+## TODO
+
+- [ ] add Resting rules
+    - including Checks
+- [ ] build out encumbrance/load rules
+- [ ] how to buy starting gear
+- [ ] help rules
+- [ ] clarify when the GM should use l1/2/3 Harm
+    - probably gated by Momentum
 
 ---
 
