@@ -1,6 +1,8 @@
-# Gyre Alight
+# Torchbearer Momentum
 
-A tabletop roleplaying game mechanic (for now, might become a Hack or even its Own Game) that **pushes players to take
-big risks in order to swing big.**
+A Hack of [_Torchbearer 2e_](https://www.torchbearerrpg.com/) (for now, might become a Hack or even its Own Game) that
+replaces the Grind with Momentum, in order to **push players to take big risks in order to swing big.**
 
-First draft is based loosely on [_Torchbearer 2e_](https://www.torchbearerrpg.com/) by Thor Olavsrud and Luke Crane.
+Based on [_Torchbearer 2e_](https://www.torchbearerrpg.com/) by Thor Olavsrud and Luke Crane.
+
+Read [the current draft](./current_draft/index.md)
