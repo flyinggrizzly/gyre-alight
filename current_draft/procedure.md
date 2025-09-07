@@ -36,7 +36,9 @@ When it's time to roll the dice, do the following:
     - Ask for Help or Aid
     - Maybe add Momentum dice
 5. Roll your dice. Any dice showing **4, 5, or 6 are successes**. Any dice showing **1, 2, or 3 are traitors.**
-6. Spend any after-roll Fate to change the outcome:
+6. Assess the result. **If you have successes equal to or exceeding the Obstacle, you succeed.**
+  - For a Versus Test, you need to break a tie if you didn't exceed your opponent's successes
+6. Spend any after-roll Fate to change failure into success:
   - Invoke a Wise with 1 or 2 Fate to reroll some or all of the traitors
     - Any traitors in the Momentum dice are still granted to the GM for their evil ends #PTQ(Or do we take them away from the GM?)
   - Spend 1 Fate to explode all dice showing a 6. Gather dice equal to the number of 6es in your first roll, and roll them, adding any new successes to your total.
